@@ -1,12 +1,10 @@
 {
   "compilerOptions": {
-    // "baseUrl": "./",
     "baseUrl": "./",
     "paths": {
       "@api/*": ["api/*"],
       "@components/*": ["components/*"],
       "@layout/*": ["layout/*"],
-      "@lib/*": ["lib/*"],
       "@pages/*": ["pages/*"],
       "@public/*": ["public/*"],
       "@store/*": ["store/*"],
